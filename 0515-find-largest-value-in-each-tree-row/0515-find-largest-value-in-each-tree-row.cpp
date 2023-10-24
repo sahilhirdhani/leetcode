@@ -11,23 +11,31 @@
  */
 class Solution {
 public:
-    vector<int> largestValues(TreeNode* root) {
-        if(!root)return {};
-        vector<int>ans;
-        priority_queue<int>pq;
-        queue<TreeNode*>q;q.push(root);
-        while(!q.empty()){
-            int n = q.size();
-            for(int i=0;i<n;i++){
-                TreeNode* node = q.front();q.pop();
-                if(node==NULL)continue;
-                pq.push(node->val);
-                if(node->left)q.push(node->left);
-                if(node->right)q.push(node->right);
-            }
-            ans.push_back(pq.top());
-            while(!pq.empty())pq.pop();
+    int level(TreeNode* root){
+        if(root==NULL){
+            return 0;
         }
+        return max(level(root->right),level(root->left))+1;
+    }
+    void print(TreeNode* root, int l, vector<int>& ans, int& h){
+        if(root==NULL){
+            return;
+        }
+        else{
+            ans[h-l]=max(ans[h-l],root->val);
+            print(root->left,l-1,ans,h);
+            print(root->right,l-1,ans,h);
+        }
+    }
+    vector<int> largestValues(TreeNode* root) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(nullptr);
+        cin.tie(NULL);
+        cin.tie(0);
+        cout.tie(0);
+        int h=level(root);
+        vector<int> ans(h,INT_MIN);
+        print(root,h,ans,h);
         return ans;
     }
 };
