@@ -4,11 +4,13 @@
 # Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/sahilhirdhani/leetcode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahilhirdhani/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sahilhirdhani/leetcode/tree/master/0198-house-robber) |
 # Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/sahilhirdhani/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sahilhirdhani/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahilhirdhani/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sahilhirdhani/leetcode/tree/master/0198-house-robber) |
@@ -38,3 +40,7 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/sahilhirdhani/leetcode/tree/master/0409-longest-palindrome) |
+# Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/sahilhirdhani/leetcode/tree/master/0064-minimum-path-sum) |
