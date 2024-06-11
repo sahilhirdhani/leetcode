@@ -23,6 +23,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/sahilhirdhani/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/sahilhirdhani/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1761-count-sorted-vowel-strings](https://github.com/sahilhirdhani/leetcode/tree/master/1761-count-sorted-vowel-strings) |
+| [1764-maximum-repeating-substring](https://github.com/sahilhirdhani/leetcode/tree/master/1764-maximum-repeating-substring) |
 # Math
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/sahilhirdhani/leetcode/tree/master/0409-longest-palindrome) |
+| [1764-maximum-repeating-substring](https://github.com/sahilhirdhani/leetcode/tree/master/1764-maximum-repeating-substring) |
 # Greedy
 |  |
 | ------- |
@@ -53,3 +55,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/sahilhirdhani/leetcode/tree/master/0064-minimum-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/sahilhirdhani/leetcode/tree/master/0967-minimum-falling-path-sum) |
+# String Matching
+|  |
+| ------- |
+| [1764-maximum-repeating-substring](https://github.com/sahilhirdhani/leetcode/tree/master/1764-maximum-repeating-substring) |
