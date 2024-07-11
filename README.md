@@ -114,6 +114,7 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sahilhirdhani/leetcode/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sahilhirdhani/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sahilhirdhani/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sahilhirdhani/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -143,5 +144,10 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sahilhirdhani/leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/sahilhirdhani/leetcode/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sahilhirdhani/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
