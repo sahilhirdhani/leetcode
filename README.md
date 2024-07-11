@@ -117,6 +117,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sahilhirdhani/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sahilhirdhani/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sahilhirdhani/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0268-missing-number](https://github.com/sahilhirdhani/leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/sahilhirdhani/leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Greedy
 |  |
@@ -125,5 +126,22 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/sahilhirdhani/leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/sahilhirdhani/leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sahilhirdhani/leetcode/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sahilhirdhani/leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sahilhirdhani/leetcode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sahilhirdhani/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
