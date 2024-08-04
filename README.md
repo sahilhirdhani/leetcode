@@ -152,4 +152,20 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sahilhirdhani/leetcode/tree/master/0075-sort-colors) |
+## Depth-First Search
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/sahilhirdhani/leetcode/tree/master/0801-is-graph-bipartite) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/sahilhirdhani/leetcode/tree/master/0801-is-graph-bipartite) |
+## Union Find
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/sahilhirdhani/leetcode/tree/master/0801-is-graph-bipartite) |
+## Graph
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/sahilhirdhani/leetcode/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
