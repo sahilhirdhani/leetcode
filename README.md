@@ -121,6 +121,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sahilhirdhani/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0268-missing-number](https://github.com/sahilhirdhani/leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/sahilhirdhani/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [1582-design-browser-history](https://github.com/sahilhirdhani/leetcode/tree/master/1582-design-browser-history) |
 ## Greedy
 |  |
 | ------- |
@@ -179,4 +180,24 @@
 | ------- |
 | [0207-course-schedule](https://github.com/sahilhirdhani/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sahilhirdhani/leetcode/tree/master/0210-course-schedule-ii) |
+## Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/sahilhirdhani/leetcode/tree/master/1582-design-browser-history) |
+## Stack
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/sahilhirdhani/leetcode/tree/master/1582-design-browser-history) |
+## Design
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/sahilhirdhani/leetcode/tree/master/1582-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/sahilhirdhani/leetcode/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/sahilhirdhani/leetcode/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
