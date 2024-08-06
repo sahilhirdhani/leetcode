@@ -120,6 +120,7 @@
 | [0162-find-peak-element](https://github.com/sahilhirdhani/leetcode/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sahilhirdhani/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0268-missing-number](https://github.com/sahilhirdhani/leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/sahilhirdhani/leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/sahilhirdhani/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1582-design-browser-history](https://github.com/sahilhirdhani/leetcode/tree/master/1582-design-browser-history) |
 ## Greedy
@@ -153,6 +154,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sahilhirdhani/leetcode/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/sahilhirdhani/leetcode/tree/master/0283-move-zeroes) |
 ## Depth-First Search
 |  |
 | ------- |
