@@ -202,4 +202,8 @@
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/sahilhirdhani/leetcode/tree/master/1582-design-browser-history) |
+## Database
+|  |
+| ------- |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/sahilhirdhani/leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 <!---LeetCode Topics End-->
