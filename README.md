@@ -125,6 +125,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/sahilhirdhani/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1582-design-browser-history](https://github.com/sahilhirdhani/leetcode/tree/master/1582-design-browser-history) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sahilhirdhani/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/sahilhirdhani/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -144,6 +145,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/sahilhirdhani/leetcode/tree/master/0268-missing-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sahilhirdhani/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/sahilhirdhani/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
