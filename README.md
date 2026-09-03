@@ -94,6 +94,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sahilhirdhani/leetcode/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/sahilhirdhani/leetcode/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/sahilhirdhani/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/sahilhirdhani/leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -192,6 +193,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sahilhirdhani/leetcode/tree/master/0020-valid-parentheses) |
 | [1582-design-browser-history](https://github.com/sahilhirdhani/leetcode/tree/master/1582-design-browser-history) |
 ## Design
 |  |
@@ -212,4 +214,8 @@
 | [0595-big-countries](https://github.com/sahilhirdhani/leetcode/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/sahilhirdhani/leetcode/tree/master/0596-classes-more-than-5-students) |
 | [0607-sales-person](https://github.com/sahilhirdhani/leetcode/tree/master/0607-sales-person) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sahilhirdhani/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
