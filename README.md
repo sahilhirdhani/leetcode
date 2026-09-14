@@ -117,6 +117,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sahilhirdhani/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/sahilhirdhani/leetcode/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sahilhirdhani/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sahilhirdhani/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -156,11 +157,13 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sahilhirdhani/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/sahilhirdhani/leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/sahilhirdhani/leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sahilhirdhani/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/sahilhirdhani/leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/sahilhirdhani/leetcode/tree/master/0283-move-zeroes) |
 ## Depth-First Search
