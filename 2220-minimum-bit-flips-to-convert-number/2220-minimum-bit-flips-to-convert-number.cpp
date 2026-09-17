@@ -1,10 +1,10 @@
 class Solution {
 public:
     int minBitFlips(int start, int goal) {
-        int num=start^goal;
+        start=start^goal;
         int count=0;
         for(int i=0;i<30;i++){
-            if(num & (1<<i)){
+            if(start & (1<<i)){
                 count++;
             }
         }
