@@ -96,6 +96,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/sahilhirdhani/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/sahilhirdhani/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sahilhirdhani/leetcode/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/sahilhirdhani/leetcode/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/sahilhirdhani/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/sahilhirdhani/leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -104,6 +105,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sahilhirdhani/leetcode/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/sahilhirdhani/leetcode/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sahilhirdhani/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sahilhirdhani/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -227,8 +229,13 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sahilhirdhani/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sahilhirdhani/leetcode/tree/master/0022-generate-parentheses) |
 ## Matrix
 |  |
 | ------- |
 | [0931-minimum-falling-path-sum](https://github.com/sahilhirdhani/leetcode/tree/master/0931-minimum-falling-path-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sahilhirdhani/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
