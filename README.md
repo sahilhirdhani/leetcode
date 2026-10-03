@@ -97,6 +97,7 @@
 | [0008-string-to-integer-atoi](https://github.com/sahilhirdhani/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/sahilhirdhani/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sahilhirdhani/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sahilhirdhani/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/sahilhirdhani/leetcode/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/sahilhirdhani/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/sahilhirdhani/leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sahilhirdhani/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sahilhirdhani/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/sahilhirdhani/leetcode/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sahilhirdhani/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sahilhirdhani/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -205,6 +207,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sahilhirdhani/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sahilhirdhani/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1582-design-browser-history](https://github.com/sahilhirdhani/leetcode/tree/master/1582-design-browser-history) |
 ## Design
 |  |
@@ -230,6 +233,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/sahilhirdhani/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sahilhirdhani/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sahilhirdhani/leetcode/tree/master/0032-longest-valid-parentheses) |
 ## Matrix
 |  |
 | ------- |
