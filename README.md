@@ -102,6 +102,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/sahilhirdhani/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/sahilhirdhani/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/sahilhirdhani/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/sahilhirdhani/leetcode/tree/master/0856-score-of-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/sahilhirdhani/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sahilhirdhani/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Dynamic Programming
@@ -212,6 +213,7 @@
 | [0020-valid-parentheses](https://github.com/sahilhirdhani/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sahilhirdhani/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/sahilhirdhani/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/sahilhirdhani/leetcode/tree/master/0856-score-of-parentheses) |
 | [1582-design-browser-history](https://github.com/sahilhirdhani/leetcode/tree/master/1582-design-browser-history) |
 ## Design
 |  |
@@ -239,6 +241,7 @@
 | [0022-generate-parentheses](https://github.com/sahilhirdhani/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sahilhirdhani/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/sahilhirdhani/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/sahilhirdhani/leetcode/tree/master/0856-score-of-parentheses) |
 ## Matrix
 |  |
 | ------- |
