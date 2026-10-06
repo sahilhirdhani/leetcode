@@ -25,7 +25,7 @@ public:
         
         dp.assign(r,vector<vector<int>>(c,vector<int>(r+c,-1)));
         
-        if(grid[0][0]!='(' || grid[r-1][c-1]!=')'){
+        if(grid[0][0]!='(' || grid[r-1][c-1]!=')' || (r+c-1)%2){
             return false;
         }
         
