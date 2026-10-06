@@ -121,6 +121,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/sahilhirdhani/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/sahilhirdhani/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sahilhirdhani/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sahilhirdhani/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Array
 |  |
 | ------- |
@@ -135,6 +136,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/sahilhirdhani/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0931-minimum-falling-path-sum](https://github.com/sahilhirdhani/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1582-design-browser-history](https://github.com/sahilhirdhani/leetcode/tree/master/1582-design-browser-history) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sahilhirdhani/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sahilhirdhani/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sahilhirdhani/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Greedy
@@ -242,10 +244,12 @@
 | [0032-longest-valid-parentheses](https://github.com/sahilhirdhani/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/sahilhirdhani/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/sahilhirdhani/leetcode/tree/master/0856-score-of-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sahilhirdhani/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Matrix
 |  |
 | ------- |
 | [0931-minimum-falling-path-sum](https://github.com/sahilhirdhani/leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sahilhirdhani/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Backtracking
 |  |
 | ------- |
