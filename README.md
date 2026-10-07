@@ -99,6 +99,7 @@
 | [0022-generate-parentheses](https://github.com/sahilhirdhani/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sahilhirdhani/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/sahilhirdhani/leetcode/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/sahilhirdhani/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0516-longest-palindromic-subsequence](https://github.com/sahilhirdhani/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/sahilhirdhani/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/sahilhirdhani/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -188,6 +189,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/sahilhirdhani/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sahilhirdhani/leetcode/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/sahilhirdhani/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0801-is-graph-bipartite](https://github.com/sahilhirdhani/leetcode/tree/master/0801-is-graph-bipartite) |
 ## Union Find
 |  |
@@ -254,4 +256,5 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sahilhirdhani/leetcode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/sahilhirdhani/leetcode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
