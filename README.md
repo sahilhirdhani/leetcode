@@ -99,6 +99,7 @@
 | [0022-generate-parentheses](https://github.com/sahilhirdhani/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sahilhirdhani/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/sahilhirdhani/leetcode/tree/master/0115-distinct-subsequences) |
+| [0208-implement-trie-prefix-tree](https://github.com/sahilhirdhani/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/sahilhirdhani/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0516-longest-palindromic-subsequence](https://github.com/sahilhirdhani/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/sahilhirdhani/leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -154,6 +155,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/sahilhirdhani/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/sahilhirdhani/leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -222,6 +224,7 @@
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/sahilhirdhani/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [1582-design-browser-history](https://github.com/sahilhirdhani/leetcode/tree/master/1582-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -257,4 +260,8 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/sahilhirdhani/leetcode/tree/master/0022-generate-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/sahilhirdhani/leetcode/tree/master/0301-remove-invalid-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/sahilhirdhani/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
